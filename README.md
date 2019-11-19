@@ -40,6 +40,6 @@ You'll see the following interface :
 
 **Copy right reserved to:**
 
-**Bin Liu**: bbin.liu@mail.utoronto.ca  
+**Bin Liu**: binliu321@gmail.com  
 
 **BingZhao Shan**: yizhe.shan@gmail.com
