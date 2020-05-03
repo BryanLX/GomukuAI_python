@@ -4,15 +4,17 @@
 ### Step1: 
 * Clone this repository ,navigate into the directory called Gomoku-GameTreeSearch and run Python2 on the file called GUI.py.
 
-    ` git clone https://github.com/zuoyigehaobing/Gomoku-GameTreeSearch`
+    ` git clone https://github.com/BryanLX/GomukuAI_python.git`
 
     ` cd Gomoku-GameTreeSearch `
 
-    ` python2 GUI.py `
+    ` python GUI.py `
 
 You'll see the following interface :
 
 ![Alt text](https://github.com/zuoyigehaobing/Gomoku-GameTreeSearch/blob/master/img/instruction2.png?raw=true "Interface")
+![Alt text](https://github.com/zuoyigehaobing/Gomoku-GameTreeSearch/blob/master/img/instruction4.jpeg?raw=true "Interface")
+![Alt text](https://github.com/zuoyigehaobing/Gomoku-GameTreeSearch/blob/master/img/instruction5.jpeg?raw=true "Interface")
 
 ### Step2:
 * Select the difficulty mode from the menu bar on the left side of the interface:
