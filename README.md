@@ -12,9 +12,9 @@
 
 You'll see the following interface :
 
-![Alt text](https://github.com/zuoyigehaobing/Gomoku-GameTreeSearch/blob/master/img/instruction2.png?raw=true "Interface")
-![Alt text](https://github.com/zuoyigehaobing/Gomoku-GameTreeSearch/blob/master/img/instruction4.jpeg?raw=true "Interface")
-![Alt text](https://github.com/zuoyigehaobing/Gomoku-GameTreeSearch/blob/master/img/instruction5.jpeg?raw=true "Interface")
+![Alt text](https://github.com/BryanLX/GomukuAI_python/blob/master/img/instruction2.png?raw=true "Interface")
+![Alt text](https://github.com/BryanLX/GomukuAI_python/blob/master/img/instruction4.jpeg?raw=true "Interface")
+![Alt text](https://github.com/BryanLX/GomukuAI_python/blob/master/img/instruction5.jpeg?raw=true "Interface")
 
 ### Step2:
 * Select the difficulty mode from the menu bar on the left side of the interface:
